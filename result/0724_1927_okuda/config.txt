@@ -1,0 +1,53 @@
+date = 0724_1927
+Calculated by okuda
+J_param = 2
+site = 4
+alpha = 0.3
+delta = 0.30933624960962325
+trotter_step = 15
+degree_of_density = 1
+min_num_of_measurement = 10
+shot_ratio = 1000
+step_initial = 0
+using_transpile_run = True
+optimization_level = 0
+initial_layout = [12, 13, 14, 16]
+observable_to_compute = charge
+initial_state = Neel
+using_real_device = True
+using_default_IBMQ = False
+name_real_device = ibm_kawasaki
+name_hub = ibm-q-utokyo
+name_group = internal
+name_project = okuda-lab
+product_type = [['charge', 1], ['charge', 1]]
+richardson_error_mitigation = 0
+using_mocking_simulator = False
+name_mock_backend = FakeGuadalupe()
+noise_model_type = None
+t1_rand_mean = 5000.0
+t2_rand_mean = 7000.0
+t1_rand_dev = 10
+t2_rand_dev = 10
+thermal_ratio = 1
+instruction_time_u1 = 0
+instruction_time_u2 = 50
+instruction_time_u3 = 100
+instruction_time_cx = 300
+instruction_time_reset = 1000
+instruction_time_measure = 10
+depo_basis_gates = ['u1', 'u2', 'u3', 'cx']
+q1_depo_rate = 0.0
+q2_depo_rate = 0.001
+amp_damp_rate = 0.018
+phase_damp_rate = 0.018
+using_barriers = False
+measurement_error_mitigation = False
+using_tomography = False
+tomography_shots = 40000
+tomo_fit_method = lstsq
+using_snapshot = False
+var_by_snapshot = False
+
+
+   IBMQ jobs submitted
