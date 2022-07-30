@@ -9,7 +9,7 @@ path = os.getcwd()
 
 # definitions
 def generate_charge_coef(deg):
-    with open(path +f'/q{deg}_plus_coefficients.dat','r') as f:
+    with open(path +f'/MEAS_MATERIAL/q{deg}_plus_coefficients.dat','r') as f:
         content = f.readlines()
 
     with open(path +f'/GENERATED/coefficients.dat','w') as g:
