@@ -1,6 +1,6 @@
 # integrable-trotterization
 
-This repository contains data and codes associated with the paper "Conserved charges in the quantum simulation of integrable spin chains" by 
+This repository contains data and codes associated with the paper ["Conserved charges in the quantum simulation of integrable spin chains"](https://arxiv.org/abs/2208.00576) by 
 Kazunobu Maruyoshi, Takuya Okuda, Juan W. Pedersen, Ryo Suzuki, Masahito Yamazaki, and Yutaka Yoshida.
 
 - MAIN_public.ipynb performs the quantum simulation on a simulator with the circuits described in the paper.
