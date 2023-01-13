@@ -1,0 +1,24 @@
+date = 1027_1949
+Calculated by okuda
+site = 10
+alpha = 0.3
+delta = 0.30933624960962325
+trotter_step = 5
+degree_of_density = 1
+min_num_of_measurement = 5
+shot_ratio = 50
+step_initial = 0
+richardson_error_mitigation = 0
+observable_to_compute = charge
+initial_state = Neel
+using_real_device = True
+name_real_device = ionq
+using_transpile_run = True
+optimization_level = 0
+measurement_error_mitigation = False
+using_tomography = False
+using_snapshot = False
+var_by_snapshot = False
+
+
+   IonQ jobs submitted
