@@ -1,0 +1,4 @@
+The error mitigation performed in the Appendix F was done using the data contained in '1228_2234_pedersen', '1228_2237_pedersen', and '1228_2241_pedersen'.
+Measurement error mitigation was applied to all of these outcomes.
+The iteration level of CNOT gates (parameter k in equation (F1) in the paper) for the results of '1228_2234_pedersen', '1228_2237_pedersen', and '1228_2241_pedersen' are 0, 1, and 2, respectively.
+See the paper for the detailed algorithm.
